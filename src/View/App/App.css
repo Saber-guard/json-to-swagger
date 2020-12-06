@@ -1,0 +1,8 @@
+#left {
+    padding: 20px;
+}
+#right {
+    padding: 20px;
+    background-color: #eee;
+    border-left: 2px #aaa solid;
+}
