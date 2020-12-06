@@ -15,6 +15,7 @@ class App extends React.Component {
   // 构造函数
   constructor (props) {
     super(props);
+    document.title="json-to-swagger";
     this.state = {
       'path': '/',
       'method': 'GET',
